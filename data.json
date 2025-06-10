@@ -1,0 +1,674 @@
+[
+    [
+        "Bahasa Mandarin",
+        "Pinyin",
+        "Bahasa Indonesia",
+        "Arti/Keterangan"
+    ],
+    [
+        "施工现场",
+        "shīgōng xiànchǎng",
+        "Situs Konstruksi",
+        "Area tempat proses konstruksi berlangsung."
+    ],
+    [
+        "建筑工地",
+        "jiànzhú gōngdì",
+        "Lokasi Konstruksi",
+        "Tempat pembangunan bangunan."
+    ],
+    [
+        "安全帽",
+        "ānquán mào",
+        "Helm Keselamatan",
+        "Pelindung kepala untuk pekerja konstruksi."
+    ],
+    [
+        "脚手架",
+        "jiǎoshǒujià",
+        "Perancah",
+        "Struktur sementara untuk mendukung pekerja dan material."
+    ],
+    [
+        "建筑材料",
+        "jiànzhú cáiliào",
+        "Bahan Bangunan",
+        "Material yang digunakan dalam konstruksi."
+    ],
+    [
+        "混凝土",
+        "hùnníngtǔ",
+        "Beton",
+        "Campuran semen, air, pasir, dan kerikil untuk konstruksi."
+    ],
+    [
+        "水泥",
+        "shuǐní",
+        "Semen",
+        "Bahan pengikat utama dalam pembuatan beton."
+    ],
+    [
+        "砂浆",
+        "shājiāng",
+        "Semen Pasir",
+        "Campuran semen dan pasir untuk perekat atau plesteran."
+    ],
+    [
+        "钢筋",
+        "gāngjīn",
+        "Tulangan Beton",
+        "Batang baja yang dicor dalam beton untuk kekuatan struktural."
+    ],
+    [
+        "模板",
+        "móbǎn",
+        "Bekisting",
+        "Cetakan yang digunakan untuk membentuk beton saat pengecoran."
+    ],
+    [
+        "钢结构",
+        "gāng jiégòu",
+        "Struktur Baja",
+        "Struktur bangunan yang menggunakan baja sebagai bahan utama."
+    ],
+    [
+        "木结构",
+        "mù jiégòu",
+        "Struktur Kayu",
+        "Struktur bangunan yang menggunakan kayu sebagai bahan utama."
+    ],
+    [
+        "砌筑",
+        "qìzhù",
+        "Pemasangan Batu Bata",
+        "Proses menyusun batu bata atau batu alam dalam pembangunan dinding."
+    ],
+    [
+        "钢板",
+        "gāngbǎn",
+        "Pelat Baja",
+        "Lembaran baja yang digunakan untuk konstruksi struktur atau penutup."
+    ],
+    [
+        "工程图",
+        "gōngchéng tú",
+        "Gambar Teknik",
+        "Gambar yang menunjukkan detail teknis dan dimensi proyek konstruksi."
+    ],
+    [
+        "测量仪器",
+        "cèliàng yíqì",
+        "Alat Ukur",
+        "Instrumen untuk mengukur jarak, sudut, dan dimensi di lapangan."
+    ],
+    [
+        "施工图",
+        "shīgōng tú",
+        "Gambar Konstruksi",
+        "Dokumen gambar kerja untuk pelaksanaan proyek."
+    ],
+    [
+        "地基",
+        "dìjī",
+        "Fondasi",
+        "Bagian bawah bangunan yang menopang seluruh struktur."
+    ],
+    [
+        "桩基",
+        "zhuāngjī",
+        "Pondasi Tiang Pancang",
+        "Pondasi yang menggunakan tiang pancang untuk menahan beban."
+    ],
+    [
+        "挖掘机",
+        "wājuéjī",
+        "Ekskavator",
+        "Mesin berat untuk menggali dan memindahkan material."
+    ],
+    [
+        "起重机",
+        "qǐzhòngjī",
+        "Crane",
+        "Alat berat untuk mengangkat dan memindahkan material berat."
+    ],
+    [
+        "塔吊",
+        "tǎ diào",
+        "Crane Menara",
+        "Crane yang dipasang pada menara untuk proyek tinggi."
+    ],
+    [
+        "混凝土搅拌机",
+        "hùnníngtǔ jiǎobàn jī",
+        "Mixer Beton",
+        "Mesin untuk mencampur bahan-bahan beton."
+    ],
+    [
+        "装卸机械",
+        "zhuāngxiè jīxiè",
+        "Peralatan Bongkar Muat",
+        "Mesin dan alat untuk memindahkan material di lokasi konstruksi."
+    ],
+    [
+        "电焊机",
+        "diànhàn jī",
+        "Mesin Las",
+        "Alat untuk menyambung material logam dengan pengelasan."
+    ],
+    [
+        "手动工具",
+        "shǒudòng gōngjù",
+        "Alat Manual",
+        "Peralatan tangan yang digunakan di lokasi konstruksi."
+    ],
+    [
+        "螺丝刀",
+        "luósīdāo",
+        "Obeng",
+        "Alat untuk memasang atau membuka sekrup."
+    ],
+    [
+        "锤子",
+        "chuízi",
+        "Palu",
+        "Alat pukul yang digunakan untuk memukul paku atau material lain."
+    ],
+    [
+        "钳子",
+        "qiánzi",
+        "Tang",
+        "Alat untuk mencengkeram atau memotong benda."
+    ],
+    [
+        "电钻",
+        "diànzuàn",
+        "Bor Listrik",
+        "Mesin bor yang menggunakan tenaga listrik."
+    ],
+    [
+        "螺栓",
+        "luósuǒ",
+        "Baut",
+        "Pengikat yang digunakan untuk menyambung komponen struktur."
+    ],
+    [
+        "螺母",
+        "luómǔ",
+        "Mur",
+        "Pasangan baut untuk mengunci sambungan."
+    ],
+    [
+        "锁具",
+        "suǒjù",
+        "Kunci/Sistem Penguncian",
+        "Alat atau sistem untuk mengamankan area atau peralatan."
+    ],
+    [
+        "工程管理",
+        "gōngchéng guǎnlǐ",
+        "Manajemen Konstruksi",
+        "Pengelolaan seluruh aspek proyek konstruksi."
+    ],
+    [
+        "建筑设计",
+        "jiànzhú shèjì",
+        "Desain Arsitektur",
+        "Rancangan dan perencanaan bangunan."
+    ],
+    [
+        "施工队",
+        "shīgōng duì",
+        "Tim Konstruksi",
+        "Kelompok pekerja yang melaksanakan proyek konstruksi."
+    ],
+    [
+        "工程监理",
+        "gōngchéng jiānlǐ",
+        "Pengawas Konstruksi",
+        "Profesional yang mengawasi kualitas dan kesesuaian proyek."
+    ],
+    [
+        "工程进度",
+        "gōngchéng jìndù",
+        "Jadwal Proyek",
+        "Rencana waktu penyelesaian setiap tahap konstruksi."
+    ],
+    [
+        "材料堆放区",
+        "cáiliào duīfàng qū",
+        "Area Penyimpanan Bahan",
+        "Lokasi penyimpanan material sebelum digunakan."
+    ],
+    [
+        "临时设施",
+        "línshí shèshī",
+        "Fasilitas Sementara",
+        "Sarana pendukung yang disediakan selama proyek berlangsung."
+    ],
+    [
+        "安全围栏",
+        "ānquán wéilán",
+        "Pagar Pengaman",
+        "Pembatas untuk mencegah akses tidak sah ke area konstruksi."
+    ],
+    [
+        "施工标志",
+        "shīgōng biāozhì",
+        "Rambu Konstruksi",
+        "Tanda-tanda pengingat keselamatan dan aturan di lokasi proyek."
+    ],
+    [
+        "防护网",
+        "fánghù wǎng",
+        "Jaring Pengaman",
+        "Jaring yang digunakan untuk melindungi pekerja dan area di sekitar situs."
+    ],
+    [
+        "电线",
+        "diànxiàn",
+        "Kabel Listrik",
+        "Kabel untuk distribusi listrik di area konstruksi."
+    ],
+    [
+        "水管",
+        "shuǐguǎn",
+        "Pipa Air",
+        "Saluran distribusi air di lokasi konstruksi."
+    ],
+    [
+        "暖通空调",
+        "nuǎntōng kòngtiáo",
+        "HVAC",
+        "Sistem pemanas, ventilasi, dan pendingin ruangan."
+    ],
+    [
+        "工地办公室",
+        "gōngdì bàngōngshì",
+        "Kantor Lapangan",
+        "Ruang administrasi di lokasi proyek."
+    ],
+    [
+        "材料清单",
+        "cáiliào qīngdān",
+        "Daftar Bahan",
+        "Dokumen yang mencantumkan seluruh material yang digunakan."
+    ],
+    [
+        "工期",
+        "gōngqī",
+        "Durasi Konstruksi",
+        "Periode waktu pengerjaan proyek."
+    ],
+    [
+        "承包商",
+        "chéngbāo shāng",
+        "Kontraktor",
+        "Perusahaan atau individu yang mengerjakan proyek secara menyeluruh."
+    ],
+    [
+        "分包商",
+        "fēnbāo shāng",
+        "Subkontraktor",
+        "Pihak yang mengerjakan sebagian tugas dalam proyek konstruksi."
+    ],
+    [
+        "预算",
+        "yùsuàn",
+        "Anggaran",
+        "Rencana biaya untuk keseluruhan proyek."
+    ],
+    [
+        "施工方案",
+        "shīgōng fāng'àn",
+        "Rencana Konstruksi",
+        "Strategi dan rencana pelaksanaan proyek."
+    ],
+    [
+        "地质勘察",
+        "dìzhì kānchá",
+        "Survei Geologi",
+        "Pemeriksaan kondisi tanah dan batuan di lokasi."
+    ],
+    [
+        "环境评估",
+        "huánjìng pínggū",
+        "Analisis Dampak Lingkungan",
+        "Evaluasi dampak proyek terhadap lingkungan sekitar."
+    ],
+    [
+        "建筑许可证",
+        "jiànzhú xǔkězhèng",
+        "Izin Bangunan",
+        "Dokumen resmi yang mengizinkan pembangunan."
+    ],
+    [
+        "施工许可证",
+        "shīgōng xǔkězhèng",
+        "Izin Konstruksi",
+        "Dokumen resmi yang mengizinkan pelaksanaan konstruksi."
+    ],
+    [
+        "质量保证",
+        "zhìliàng bǎozhèng",
+        "Jaminan Mutu",
+        "Prosedur untuk memastikan kualitas bangunan sesuai standar."
+    ],
+    [
+        "施工安全",
+        "shīgōng ānquán",
+        "Keselamatan Kerja",
+        "Protokol keselamatan selama pelaksanaan konstruksi."
+    ],
+    [
+        "工作服",
+        "gōngzuò fú",
+        "Seragam Kerja",
+        "Pakaian yang dikenakan oleh pekerja di lapangan."
+    ],
+    [
+        "防护鞋",
+        "fánghù xié",
+        "Sepatu Pelindung",
+        "Alas kaki khusus untuk mencegah cedera di lokasi konstruksi."
+    ],
+    [
+        "施工围挡",
+        "shīgōng wéidǎng",
+        "Penghalang Konstruksi",
+        "Pembatas sementara untuk mengamankan area kerja."
+    ],
+    [
+        "施工现场指挥",
+        "shīgōng xiànchǎng zhǐhuī",
+        "Pengawas Lokasi",
+        "Pihak yang memimpin dan mengatur pekerjaan di situs konstruksi."
+    ],
+    [
+        "建筑垃圾",
+        "jiànzhú lājī",
+        "Sampah Konstruksi",
+        "Material limbah dari proses pembangunan."
+    ],
+    [
+        "废料回收",
+        "fèiliào huíshōu",
+        "Daur Ulang Limbah",
+        "Proses mengumpulkan dan mengolah kembali material bekas."
+    ],
+    [
+        "防水材料",
+        "fángshuǐ cáiliào",
+        "Bahan Kedap Air",
+        "Material untuk mencegah kebocoran air."
+    ],
+    [
+        "保温材料",
+        "bǎowēn cáiliào",
+        "Bahan Isolasi",
+        "Material untuk menjaga suhu ruangan tetap stabil."
+    ],
+    [
+        "隔音材料",
+        "géyīn cáiliào",
+        "Bahan Peredam Suara",
+        "Material yang mengurangi kebisingan."
+    ],
+    [
+        "外墙",
+        "wàiqiáng",
+        "Dinding Luar",
+        "Dinding bagian luar bangunan."
+    ],
+    [
+        "内墙",
+        "nèi qiáng",
+        "Dinding Dalam",
+        "Dinding pembatas di dalam bangunan."
+    ],
+    [
+        "地板",
+        "dìbǎn",
+        "Lantai",
+        "Permukaan dasar bangunan untuk berjalan dan aktivitas."
+    ],
+    [
+        "天花板",
+        "tiānhuābǎn",
+        "Plafon",
+        "Langit-langit ruangan."
+    ],
+    [
+        "门窗",
+        "mén chuāng",
+        "Pintu dan Jendela",
+        "Bukaan untuk akses dan ventilasi di bangunan."
+    ],
+    [
+        "屋顶",
+        "wūdǐng",
+        "Atap",
+        "Bagian atas bangunan yang melindungi dari cuaca."
+    ],
+    [
+        "楼梯",
+        "lóutī",
+        "Tangga",
+        "Struktur untuk menghubungkan lantai-lantai."
+    ],
+    [
+        "电梯",
+        "diàntī",
+        "Lift",
+        "Alat untuk mengangkut orang atau barang antar lantai."
+    ],
+    [
+        "通风口",
+        "tōngfēng kǒu",
+        "Ventilasi",
+        "Bukaan untuk sirkulasi udara."
+    ],
+    [
+        "排水管",
+        "páishuǐ guǎn",
+        "Pipa Pembuangan",
+        "Saluran untuk mengalirkan air limbah."
+    ],
+    [
+        "消防设施",
+        "xiāofáng shèshī",
+        "Peralatan Pemadam Kebakaran",
+        "Sistem dan alat untuk mengatasi kebakaran."
+    ],
+    [
+        "应急出口",
+        "yìngjí chūkǒu",
+        "Pintu Darurat",
+        "Jalur evakuasi dalam keadaan darurat."
+    ],
+    [
+        "楼板",
+        "lóubǎn",
+        "Lantai Struktur",
+        "Pelat lantai sebagai bagian dari struktur bangunan."
+    ],
+    [
+        "钢筋混凝土",
+        "gāngjīn hùnníngtǔ",
+        "Beton Bertulang",
+        "Beton yang diperkuat dengan tulangan baja."
+    ],
+    [
+        "建筑框架",
+        "jiànzhú kuàngjià",
+        "Rangka Bangunan",
+        "Struktur utama yang menopang bangunan."
+    ],
+    [
+        "拆除",
+        "chāichú",
+        "Pembongkaran",
+        "Proses merobohkan struktur lama."
+    ],
+    [
+        "拆迁",
+        "chāiqiān",
+        "Pembongkaran Bangunan Lama",
+        "Proses memindahkan atau merobohkan bangunan yang sudah usang."
+    ],
+    [
+        "施工机械",
+        "shīgōng jīxiè",
+        "Mesin Konstruksi",
+        "Peralatan berat yang mendukung pekerjaan konstruksi."
+    ],
+    [
+        "土方工程",
+        "tǔfāng gōngchéng",
+        "Pekerjaan Tanah",
+        "Kegiatan penggalian dan pemindahan tanah."
+    ],
+    [
+        "路基",
+        "lùjī",
+        "Pondasi Jalan",
+        "Struktur dasar untuk jalan atau rel."
+    ],
+    [
+        "桥梁",
+        "qiáoliáng",
+        "Jembatan",
+        "Struktur penghubung antar lokasi yang dibangun."
+    ],
+    [
+        "隧道",
+        "suìdào",
+        "Terowongan",
+        "Struktur bawah tanah sebagai jalur lalu lintas atau instalasi."
+    ],
+    [
+        "水坝",
+        "shuǐ bà",
+        "Bendungan",
+        "Struktur untuk menahan atau mengalirkan air."
+    ],
+    [
+        "塔式起重机",
+        "tǎ shì qǐzhòngjī",
+        "Crane Menara",
+        "Crane berbentuk menara untuk mengangkat material berat."
+    ],
+    [
+        "混凝土浇筑",
+        "hùnníngtǔ jiāozhù",
+        "Pengecoran Beton",
+        "Proses pencampuran dan pencetakan beton di lokasi."
+    ],
+    [
+        "钢结构安装",
+        "gāng jiégòu ānzhuāng",
+        "Pemasangan Struktur Baja",
+        "Proses perakitan komponen baja dalam bangunan."
+    ],
+    [
+        "建筑保温",
+        "jiànzhú bǎowēn",
+        "Isolasi Bangunan",
+        "Pemasangan bahan isolasi untuk efisiensi termal."
+    ],
+    [
+        "地下管线",
+        "dìxià guǎnxiàn",
+        "Pipa Bawah Tanah",
+        "Instalasi pipa di bawah permukaan tanah."
+    ],
+    [
+        "管道安装",
+        "guǎndào ānzhuāng",
+        "Pemasangan Pipa",
+        "Proses instalasi sistem perpipaan."
+    ],
+    [
+        "土工布",
+        "tǔgōng bù",
+        "Geotextile",
+        "Kain sintetis untuk stabilisasi tanah."
+    ],
+    [
+        "土壤改良",
+        "tǔrǎng gǎiliáng",
+        "Perbaikan Tanah",
+        "Teknik meningkatkan kualitas tanah untuk konstruksi."
+    ],
+    [
+        "施工日志",
+        "shīgōng rìzhì",
+        "Catatan Harian Konstruksi",
+        "Dokumentasi harian aktivitas dan kemajuan proyek."
+    ],
+    [
+        "建筑钢材",
+        "jiànzhú gāngcái",
+        "Baja Konstruksi",
+        "Material baja khusus untuk struktur bangunan."
+    ],
+    [
+        "现场监控",
+        "xiànchǎng jiānkòng",
+        "Pengawasan Lokasi",
+        "Sistem pengawasan (kamera/detektor) di area konstruksi."
+    ],
+    [
+        "施工流程",
+        "shīgōng liúchéng",
+        "Proses Konstruksi",
+        "Tahapan kerja dari awal hingga akhir proyek."
+    ],
+    [
+        "工程质量",
+        "gōngchéng zhìliàng",
+        "Mutu Konstruksi",
+        "Standar dan kualitas hasil pekerjaan konstruksi."
+    ],
+    [
+        "工程验收",
+        "gōngchéng yànshōu",
+        "Serah Terima Proyek",
+        "Proses pemeriksaan akhir sebelum penggunaan bangunan."
+    ],
+    [
+        "现场指挥中心",
+        "xiànchǎng zhǐhuī zhōngxīn",
+        "Pusat Komando Lokasi",
+        "Tempat koordinasi dan pengawasan operasi di lapangan."
+    ],
+    [
+        "劳动保护",
+        "láodòng bǎohù",
+        "Perlindungan Pekerja",
+        "Upaya menjaga keselamatan dan kesehatan tenaga kerja."
+    ],
+    [
+        "工作许可证",
+        "gōngzuò xǔkězhèng",
+        "Surat Izin Kerja",
+        "Dokumen resmi yang mengizinkan pekerjaan di lokasi."
+    ],
+    [
+        "环保措施",
+        "huánbǎo cuòshī",
+        "Tindakan Pelestarian Lingkungan",
+        "Langkah-langkah untuk menjaga lingkungan selama konstruksi."
+    ],
+    [
+        "工程保险",
+        "gōngchéng bǎoxiǎn",
+        "Asuransi Konstruksi",
+        "Polis asuransi yang melindungi proyek dari risiko kerugian."
+    ],
+    [
+        "预应力混凝土",
+        "yù yìnglì hùnníngtǔ",
+        "Beton Prategang",
+        "Beton yang diberi tegangan awal untuk meningkatkan kekuatan."
+    ]
+]
